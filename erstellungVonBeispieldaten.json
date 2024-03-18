@@ -1,0 +1,105 @@
+{
+    "Firma": [
+      {
+        "Name": "ABC-Corp",
+        "Lager":
+        [
+
+          {
+            "Sorte": "Lunario",
+            "Typ": "Zitrone",
+            "Lagerbestand": 23,
+            "PreisProKG": 3.75
+          },
+
+          {
+            "Sorte": "Crimson Sweet",
+            "Typ": "Melone",
+            "Lagerbestand": 74,
+            "PreisProKG": 2
+          },
+          
+          {
+            "Sorte": "Granny Smith",
+            "Typ": "Apfel",
+            "Lagerbestand": 12,
+            "PreisProKG": 1.75
+          },
+
+          {
+            "Sorte": "Black Amber",
+            "Typ": "Pflaume",
+            "Lagerbestand": 15,
+            "PreisProKG": 4
+          }
+        ]
+      },
+
+      {
+        "Name": "Dedeka",
+        "Lager": [
+          {
+            "Sorte": "Crimson Sweet",
+            "Typ": "Melone",
+            "Lagerbestand": 3,
+            "PreisProKG": 1.75
+          },
+
+          {
+            "Sorte": "Granny Smith",
+            "Typ": "Apfel",
+            "Lagerbestand": 23,
+            "PreisProKG": 1.60
+          },
+
+          {
+            "Sorte": "Williams Christ",
+            "Typ": "Birne",
+            "Lagerbestand": 54,
+            "PreisProKG": 4.80
+          },
+
+          {
+            "Sorte": "Gute Luise",
+            "Typ": "Birne",
+            "Lagerbestand": 41,
+            "PreisProKG": 5
+          }
+        ]
+      },
+
+      {
+        "Name": "Rewaeldi",
+        "Lager": [
+          {
+            "Sorte": "Crimson Sweet",
+            "Typ": "Melone",
+            "Lagerbestand": 12,
+            "PreisProKG": 1.95
+          },
+
+          {
+            "Sorte": "Williams Christ",
+            "Typ": "Birne",
+            "Lagerbestand": 10,
+            "PreisProKG": 4.55
+          },
+
+          {
+            "Sorte": "Lunario",
+            "Typ": "Zitrone",
+            "Lagerbestand": 41,
+            "PreisProKG": 3.95
+          },
+
+          {
+            "Sorte": "Gute Luise",
+            "Typ": "Birne",
+            "Lagerbestand": 25,
+            "PreisProKG": 4.90
+          }
+        ]
+      }
+    ]
+  }
+  
